@@ -6,7 +6,7 @@ Program który graficznie przedstawia zapis z czasu, położenia x i położenia
   <li>tkinter</li>
 </ul>
  <h2>Używanie:</h2>
- <i><b>python3 wizualizacja.py [ścieżka do pliku]</b></i>
+ <i><b>python3 wizualizacja.py [ścieżka do pliku]</b></i><br><br>
 Wątpię, że do czegoś się przyda, ale można go przerobić żeby przyjmował inny format danych.<br>
 radius -> promień kółek<br>
 width -> szerokość pola<br>
