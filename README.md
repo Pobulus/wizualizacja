@@ -1,6 +1,6 @@
 # wizualizacja
 Program który graficznie przedstawia zapis z czasu, położenia x i położenia y z kamery nad stołem powietrznym w SMCEBI <br>
-<h2>Wymagania:<h3>
+<h2>Wymagania:</h2>
 <ul>
   <li>Python3 (python 2 wymaga zmiany tkinter na Tkinter)</li>
   <li>tkinter</li>
