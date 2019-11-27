@@ -70,7 +70,7 @@ def updatePoints(x):
 if sys.argv[1][0] == "/":
     filepath = sys.argv[1] 
 else:
-    filepath = "./"+sys.argv[1]
+    filepath = sys.argv[1] #"./"+
 points = []
 with open(filepath) as f:
     line = f.readline()
